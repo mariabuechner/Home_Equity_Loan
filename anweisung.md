@@ -31,15 +31,7 @@ Die folgenden Fragen dienen als Orientierung. Sie geben bewusst keinen festen L�
 
 ## Erwartete Ergebnisse
 
-Gebt Folgendes ab:
-
-- ein ausführbares Notebook oder Skript mit eurem vollständigen Arbeitsablauf,
-- eine kurze Beschreibung der Daten und der wichtigsten Erkenntnisse aus der explorativen Analyse,
-- eine begründete Dokumentation eurer Datenaufbereitung und Modellauswahl,
-- einen nachvollziehbaren Vergleich der untersuchten Ansätze,
-- eine geeignete Bewertung des finalen Modells auf bisher ungesehenen Daten,
-- eine Interpretation der Ergebnisse aus fachlicher Sicht,
-- eine kurze Reflexion darüber, wie ihr die KI eingesetzt, ihre Vorschläge überprüft und gegebenenfalls verbessert habt.
+Gebt eine **HTML-Präsentation** ab, die euren Arbeitsprozess in übersichtlichen Kapiteln dokumentiert. Sie soll die Datenanalyse, euer Vorgehen, den Vergleich geeigneter Modelle, die Bewertung und Interpretation des finalen Modells sowie eine kurze Reflexion zum KI-Einsatz enthalten. Verwendeter Code und zentrale Ergebnisse sollen darin nachvollziehbar dargestellt sein.
 
 ## Einsatz von KI
 
